@@ -1,0 +1,64 @@
+1: Scrum is framework by which we can implement agile. There are lots of other framework available like kanban, xp 
+but scrum is one which is widely used.
+
+2: Scrum.org says its a better way to build products. it has phases (https://www.scrum.org/resources/what-is-scrum)
+    > Product backlog (holds complete uncompleted task)
+    > Sprint (some requirement picked from backlog)
+    > Sprint team (4 to 8 people)
+
+3: So scrum is lightweight framework, simple to understand but difficult to master.
+
+4: scrum normally goes with sprint. suppose entire project might get one year so you are not going to wait for entire 1 year
+to deliver product. of cource client will not be waiting for you to deliver product in one year. so what if you can deliver something 
+to your client every 1, 2, or 4 week depending on your speed. it is potentially shipped product, it depends on client that they want 
+these small product to be deployed or not.
+So from the entire product requirement we will take small requirement each week.
+
+4: so we will have entire backlog(uncompleted work) available in product backlog of scrum. we can add requirement later also its not 
+fixed.
+Then we pick some requirement from backlog and create a sprint for 1 ,2 or 3 week. we will call this current sprint backlog for defined
+week. here we will plan sprint.
+Then there is scrum team who will work on product. its not a big team , it is approx 4 to 8 people.
+Then after decided time of sprint we have completed 1st sprint it is called increment.
+But suppose there are situation we could not complete all backlogs of our sprint so in that case we will move it to next sprint. yes 
+it is possible..
+
+
+5: Sprint Retrospective : Before moving to next sprint from first one we have to do sprint retrospective. sprint retrospective is
+like we talk following thing in this plase.
+    > what worked well
+    > what could be improved
+    > what will we commit to do in next sprint. here scrum team member makes actionable commitment.
+    
+6: one more phase we missed is daily scrum: for 15 min each day team member makes standup where they discuss about sprint and if
+there are something which is blocking him.
+
+7: Product owner : product owner is something like who is representing your client or stakeholder. so the client will give all the
+requirement and you will get the requirement from product owner.
+
+8: Scrum master : this people is responsible for all the scrum process working. development team is responsible for task so there
+is need of a person who could manage all like standup meeting , retrospective helping people to achieve task.
+Here are some scrum master responsibilities.
+ > Clearing obstacles (thing that blocks one way or prevents)
+ > Establishing an environment where team can be effective
+ > Addresing team dynamics
+ > Ensuring good relationship between team and product owner.
+ > Protecting team from outside intruption and distraction.
+ 
+9: Development team is self organising and cross function (one can do development design and testing also).
+
+10: Scrum Board : scrumboard has some column 
+    > story : here we have backlogs.
+    > todo :
+    > inprogress:
+    > Testing
+    > Done : this part is very important. when we put backlog in done phase it means 100% of work is completed
+              we cant put some task which is completed 70 %. done means 100 % done.
+              
+ 
+
+Ref : https://www.scrum.org/resources/what-is-scrum
+
+
+
+
